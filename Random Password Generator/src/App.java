@@ -5,9 +5,5 @@ public class App {
     }
     
 }
-///hello 
-/// how are you 
-/// // I am fine
-/// // I am fine too        
-/// /// // I am fine too
-/// // I am fine too
+// This code is the main entry point for the Random Password Generator application.
+// It creates an instance of the PasswordGeneratorGUI class and sets it visible.
